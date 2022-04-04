@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d6ea7e51f2669e4f98e5dade4a2c291, type: 3}
+  m_Name: YellowMeal
+  m_EditorClassIdentifier: 
+  mealType: 0
+  iconSprite: {fileID: 21300000, guid: d0af103a28119ef4f871b5670e5fa847, type: 3}
+  respawnTime: 1
+  mealPrefab: {fileID: 7577212894808863162, guid: bb29b9d2c9e2b814e9e08d3ed2eb5d16, type: 3}
+  mealMaterial: {fileID: 2100000, guid: e225b2b6e9402dd42bb7012ad905703f, type: 2}
